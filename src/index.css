@@ -1,0 +1,32 @@
+.card{
+  width: 18rem;
+  
+  
+} 
+.card-img-top{
+  height: 40vh;
+}
+.btn{
+  margin-left: 19px;
+}
+.email{
+  height: 16px;
+  width: 16px;
+}
+.LinkedIn{
+  height: 16px;
+  width: 16px;
+}
+.git{
+  height: 34px;
+  width: 55px; 
+}
+.linked-footer{
+  height: 34px;
+  width: 34px;
+}
+.email-footer{
+  height: 34px;
+  width: 34px;
+  margin-left: 10px;
+}
